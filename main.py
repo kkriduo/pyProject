@@ -18,4 +18,5 @@ if __name__ == '__main__':
     print_hi('hot-fix')
     print_hi('hot-fix')
     print_hi('pull text')
+    print_hi('update github')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
