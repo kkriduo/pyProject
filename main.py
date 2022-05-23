@@ -14,6 +14,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi('PyCharm')
     print_hi('PyCharm')
-    print_hi('PyCharm')
-
+    print_hi('hot-fix')
+    print_hi('hot-fix')
+    print_hi('hot-fix')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
