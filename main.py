@@ -17,4 +17,5 @@ if __name__ == '__main__':
     print_hi('hot-fix')
     print_hi('hot-fix')
     print_hi('hot-fix')
+    print_hi('pull text')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
